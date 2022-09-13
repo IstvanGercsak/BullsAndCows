@@ -30,37 +30,43 @@ In this stage, your program should:
 - The output to be graded is a 4-digit code consisting of unique digits.
 - The last line of your output contains a secret number.
 
-### 2/5 - Take position!
+### 1/7 - Game log
 
 #### Description:
 
 #### Objectives:
 
-### 3/5 - Take position!
+### 2/7 - Grader
 
 #### Description:
 
 #### Objectives:
 
-### 4/5 - Take position!
+### 3/7 - Secret code
 
 #### Description:
 
 #### Objectives:
 
-### 5/5 - Take position!
+### 4/7 - Game time!
 
 #### Description:
 
 #### Objectives:
 
-### 6/5 - Take position!
+### 5/7 - Improve the code generator
 
 #### Description:
 
 #### Objectives:
 
-### 7/5 - Take position!
+### 6/7 - New level
+
+#### Description:
+
+#### Objectives:
+
+### 7/7 - Error!
 
 #### Description:
 
